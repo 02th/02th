@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @02th
 - 👀 I’m interested in Coding and Ethical Hacking 
 - 🌱 I’m currently learning Python with C++
-- 📫 You can reach me by sending a dm to @02th!
+- 📫 You can reach me by sending a dm to @02th at discord!
 - 😄 Pronouns: he/him
 
 <!---
